@@ -9,4 +9,15 @@
         <item>group</item>
         <item>trip</item>
     </array>
+    <array name="category">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Recharge</item>
+        <item>Workshops</item>
+        <item>Movies</item>
+        <item>Games</item>
+        <item>Subscription</item>
+        <item>Gadgets</item>
+        <item>Others</item>
+    </array>
 </resources>

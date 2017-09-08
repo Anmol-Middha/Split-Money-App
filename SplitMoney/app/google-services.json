@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "44098597989-7iidiglov4a4bo3v8i28rbgg69coqho5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.middha.anmol.splitmoney",
+            "certificate_hash": "89ca5b1252467dc7d0ea9544754f1810366a2a80"
+          }
+        },
+        {
           "client_id": "44098597989-vv8o3mpdp6j9fidqf2aga2vcep81rqoq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
