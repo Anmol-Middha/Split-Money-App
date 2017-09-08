@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "44098597989",
+    "firebase_url": "https://splitmoney-9bf34.firebaseio.com",
+    "project_id": "splitmoney-9bf34",
+    "storage_bucket": "splitmoney-9bf34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44098597989:android:d40060c97c9fdc5a",
+        "android_client_info": {
+          "package_name": "com.middha.anmol.splitmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44098597989-vv8o3mpdp6j9fidqf2aga2vcep81rqoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.middha.anmol.splitmoney",
+            "certificate_hash": "5af8198565d0aa50296e0441aa3a89a9792cb83e"
+          }
+        },
+        {
+          "client_id": "44098597989-kcp8d00l65k2uivfogfbbi0mlqu0d8vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PJo0VHY13exQ241b2nF4KQaYaAbiCqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44098597989-kcp8d00l65k2uivfogfbbi0mlqu0d8vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
