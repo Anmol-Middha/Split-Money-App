@@ -8,7 +8,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
-
+import android.view.LayoutInflater;
+import android.os.Bundle;
+import android.view.View;
+import android.view.ViewGroup;
 /**
  * Created by Anmol on 9/8/2017.
  */
