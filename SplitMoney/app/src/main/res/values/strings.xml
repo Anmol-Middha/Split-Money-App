@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">Split Money</string>
-    <string name="title_activity_account">Account</string>
+    <string name="title_activity_account">Split Money</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <array name="type">
+        <item>personal</item>
+        <item>group</item>
+        <item>trip</item>
+    </array>
 </resources>

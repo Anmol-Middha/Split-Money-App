@@ -8,23 +8,20 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
-import android.view.LayoutInflater;
-import android.os.Bundle;
-import android.view.View;
-import android.view.ViewGroup;
+
 /**
  * Created by Anmol on 9/8/2017.
  */
 
 public class tab3_fragment extends Fragment {
-    private static final String TAG="tab3_fragment";
+    private static final String TAG="trip_expense_frag";
 
     private Button btnTEST;
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.tab3_fragment,container,false);
+        View view = inflater.inflate(R.layout.trip_expense_frag,container,false);
 
         btnTEST=(Button)view.findViewById(R.id.btnTEST3);
 
